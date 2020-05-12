@@ -1,0 +1,31 @@
+Body{
+  background-color:purple;
+  backgroun-size:auto 100vh;
+  Font-family:Courier;
+}
+.menu{background-color:white;
+  
+}
+a{
+  color:teal;
+  text-decoration:none;
+}
+a:hover{
+  text-decoration:underline;
+}
+.menu ul {
+  display: flex;
+  justify-content:space-between;
+}
+.menu li{
+  list-style:none;
+}
+.site-subtitle,
+.site-title{
+  color:yellow;
+  text-align:center;
+}
+
+.site-subtitle{
+  Font-style:italic;
+}
